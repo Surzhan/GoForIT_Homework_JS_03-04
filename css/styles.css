@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.question-item {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+}
